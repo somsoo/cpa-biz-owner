@@ -1,0 +1,8 @@
+﻿title: "사장님 성공 창업 & 경영 정보센터"
+description: "구인구직, 알바채용, 창업 정보, B2B 솔루션 등 자영업자 및 기업 대표님들을 위한 필수 경영 정보를 제공합니다."
+url: "https://biz.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
